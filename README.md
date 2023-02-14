@@ -1,11 +1,12 @@
-🌱 `did:chia:186zp7axcceqxq3u0rs8rt790xrq6wjrt2yy23txlq8qhgev6jqnssvh7kc`🌱 
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=kimsk&count_private=true&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsk&theme=vue-dark&layout=compact&langs_count=8&hide=javascript,html,css,jupyter%20notebook)
 
 - 🌱 I’m currently learning about crypto, especially [chia blockchain](https://docs.chia.net/docs/01introduction/what-is-chia/) and [chialisp](https://chialisp.com/). Follow my journey at [kimsk/chia-concepts](https://github.com/kimsk/chia-concepts)
-- 💬 Ask me about #chialisp
+- 💬 Ask me about [#chialisp](https://twitter.com/search?q=%23chialisp)
 - 📫 How to reach me: [twitter](https://twitter.com/kimsk) or [keybase](https://keybase.io/)
+- **nostr:** `npub1nzw9wc5f94a94pnfswd7cf336hafdwftm5zusmhlnctdkxad8slqq89es6`
+- **did:** `did:chia:186zp7axcceqxq3u0rs8rt790xrq6wjrt2yy23txlq8qhgev6jqnssvh7kc`
 
 
 <!--
